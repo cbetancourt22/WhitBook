@@ -11,3 +11,4 @@ Detail description about the project can be found at: [./Documentation/ProjectDe
 The program can be started by running ./main.py
 
 ## Login and Register
+After starting the program, the user can choose to either login or register a new user ![](ImagesDemonstration/Login.jpg)

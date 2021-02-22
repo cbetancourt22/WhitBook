@@ -20,3 +20,15 @@ New users can register by giving some information like username, firstname, last
 After loging in, users can see their own personal information and options to create new post, view other user posts and make new posts
 By clicking create post, there will be a window where users can input the content of their new post and post it. <img src = "ImagesDemonstration/Creating%20a%20post.JPG">
 
+## Search and Follow Users
+User can also search for other user, view their information and follow them by selecting option **Search User** <img src = "ImagesDemonstation/UserFinder.JPG">
+
+## View Other Users' Posts
+After following other people, user can see and like other people post by selecting the option 'View Post Feed'
+In this windows, the user can choose to like or unlike a post, see the number of like and the content as well as the author, and scroll to other post using the option of next and previous post. <img src = "ImagesDemonstation/ViewPosts.JPG">
+
+## Special Feature
+By registering to this application with Whitworth username, the application will automatically download their Whitworth profile picture and use it.
+An example here is Whitworth username of our president Beck Taylor.  <img src = "ImagesDemonstation/SpecialFeature.JPG">
+
+

@@ -21,11 +21,11 @@ After loging in, users can see their own personal information and options to cre
 By clicking create post, there will be a window where users can input the content of their new post and post it. <img src = "ImagesDemonstration/Creating%20a%20post.JPG">
 
 ## Search and Follow Users
-User can also search for other user, view their information and follow them by selecting option **Search User** <img src = "ImagesDemonstation/UserFinder.JPG">
+User can also search for other user, view their information and follow them by selecting option **Search User** <img src = "ImagesDemonstration/UserFinder.JPG">
 
 ## View Other Users' Posts
 After following other people, user can see and like other people post by selecting the option 'View Post Feed'
-In this windows, the user can choose to like or unlike a post, see the number of like and the content as well as the author, and scroll to other post using the option of next and previous post. <img src = "ImagesDemonstation/ViewPosts.JPG">
+In this windows, the user can choose to like or unlike a post, see the number of like and the content as well as the author, and scroll to other post using the option of next and previous post. <img src = "ImagesDemonstration/ViewPosts.JPG">
 
 ## Special Feature
 By registering to this application with Whitworth username, the application will automatically download their Whitworth profile picture and use it.

@@ -29,6 +29,6 @@ In this windows, the user can choose to like or unlike a post, see the number of
 
 ## Special Feature
 By registering to this application with Whitworth username, the application will automatically download their Whitworth profile picture and use it.
-An example here is Whitworth username of our president Beck Taylor.  <img src = "ImagesDemonstation/SpecialFeature.JPG">
+An example here is Whitworth username of our president Beck Taylor.  <img src = "ImagesDemonstration/SpecialFeature.JPG">
 
 
